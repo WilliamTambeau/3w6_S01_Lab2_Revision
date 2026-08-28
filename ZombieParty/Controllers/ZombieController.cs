@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using ZombieParty.Models;
 
 namespace ZombieParty.Controllers
 {
