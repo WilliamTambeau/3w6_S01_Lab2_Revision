@@ -1,4 +1,4 @@
-﻿namespace ZombieParty;
+﻿namespace ZombieParty.Models;
 
 public class Zombie
 {
