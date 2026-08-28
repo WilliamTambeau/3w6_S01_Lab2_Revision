@@ -16,5 +16,10 @@ this.ViewBag.MaListe = new List<ZombieType>()
             return View();
         }
 
+	public IActionResult Create()
+{
+    return View();
+}
+
     }
 }
